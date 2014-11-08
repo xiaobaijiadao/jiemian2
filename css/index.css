@@ -1,0 +1,26 @@
+@charset "UTF-8";
+nav.navbar{
+	background-color:#3f7ce2;
+}
+div.navbar-header{
+	color:#ebf0f9;
+	font-size:20px;
+	width:25%;
+}
+li.list{
+	font-size:20px;
+    color:#ebf0f9;
+}
+.nav li.act{
+	background-color:#3366cc;
+	color:#FFF;
+}
+img.picture{
+	height:100%;
+	width:100%;
+}
+div.modal-content{
+	margin:150px auto;
+	height:350px;
+	width:250px;
+}
