@@ -1,0 +1,204 @@
+@charset "UTF-8";
+#background{
+	position:fixed;
+	width:100%;
+	min-height:1000px;
+	z-index:-1;
+}
+#logo1{
+	position:absolute;
+	width:100px;
+	height:200px;
+}
+.yinyu{
+	opacity:0.8;
+}
+nav.navbar{
+	background-color:#3f7ce2;
+	padding-right:50px;
+	opacity:0.9;
+}
+div.navbar-header{
+	color:#ebf0f9;
+	font-size:20px;
+	width:25%;
+}
+header li:hover{
+	background-color:#3366cc;
+	color:#FFF;
+}
+div.navbar-header p{
+	color: #ebf0f9;
+	text-align: center;
+	padding-top: 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+header li{
+	font-size:20px;
+   	color:#ebf0f9;
+	width:100px;
+	text-align:center;
+}
+.nav li.act{
+	background-color:#3366cc;
+	color:#FFF;
+}
+img.picture{
+	height:100%;
+	width:100%;
+}
+#logo2{
+	
+}
+div.modal-content{
+	margin:150px auto;
+	height:350px;
+	width:250px;
+	border-radius:5px;
+}
+div.yinyu{
+	height:200px;
+	width:100%;
+	padding:30px 20%;
+	text-align:center;
+	font-size:18px;
+}
+#newssymbol{
+	height: 30%;
+	width: 100%;
+	border-radius: 10px;
+	background-color: #F66;
+	color: #FFF;
+}
+#newslogo{
+	height:60%;
+	width:100%;
+	font-size: 100px;
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#newsclick{
+	width: 30%;
+	font-size: 24px;
+	font-weight:200;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	float: right;
+	margin-top: 30px;
+}
+#newstop5{
+	height:50px;
+	width:50%;
+	margin:20px auto;
+	padding:5px;
+	background-color:#FF6A4E;
+	color:#FFF;
+	font-size:30px;
+	border-radius:10px;
+	text-align:center;
+}
+#top5listdiv{
+	height:50%;
+	width:100%;
+}
+#top5list{
+	list-style-type:disc;
+	list-style-position:outside;
+	width:95%;
+	margin:0px auto;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#FFF;
+	padding:2px;
+}
+#top5list li{
+	height:40px;
+	width:100%;
+	font-size:14px;
+	margin-top:10px;
+	margin-left:0px;
+	border-radius:5px;
+	color:#000;
+}
+#top5list a:visited{
+	color:#00F;
+	font-weight:500;
+}
+#top5list a:hover{
+	color:#00F;
+	font-weight:500;
+}
+#inform{
+	float:left;
+	height:580px;
+	width:70%;
+	padding:10px 20px;
+	font-size:24px;
+}
+#inform .inform{
+	width:98%;
+	height:125px;
+	padding:5px;
+	background-color:#E5E7F2;
+	border-radius:10px;
+	margin:5px auto 0px;
+	text-align:left;
+}
+#inform .inform:hover{
+	width:100%;
+	height:150px;
+	background-color:#D6D8E5;
+}
+#inform .inform img{
+	height:100%;
+	width:13%;
+	float:left;
+}
+#inform .textcontent{
+	height:115px;
+	width:85%;
+	float:right;
+	padding:5px;
+}
+#inform .titlediv{
+	width:100%;
+	height:30px;
+	font-size:20px;
+	font-weight:400;
+}
+#inform .title{
+	float:left;
+}
+#inform .from{
+	float:right;
+	color:#999;
+}
+#inform .article{
+	height:75px;
+	width:100%;
+	font-size:18px;
+	font-weight:100;
+	padding:2px;
+	text-align:left;
+	line-height:120%;
+		
+}
+#club .clubdiv{
+	height:350px;
+	width:25%;
+	float:left;
+	background-color:#FFF;
+	margin:100px 4%;
+	padding:20px;
+	font-size:20px;
+	color:#666;
+	opacity:0.9;
+}
+footer div{
+	margin:20px auto; 
+	height:50px;
+	width:80%;
+	border-top-color:#CCC;
+	border-top-style:solid;
+	border-top-width:thin;
+	padding:10px 50px;
+}
